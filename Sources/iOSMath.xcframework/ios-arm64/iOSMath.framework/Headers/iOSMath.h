@@ -1,23 +1,14 @@
 //
-//  iOSMath.h
-//  iOSMath
+//  IosMath.h
+//  iosMath
 //
-//  Created by Horacio Alexandro Sanchez on 8/19/22.
-//
+//  Created by MARIO ANDHIKA on 8/28/15.
+//  Copyright (C) 2015 MathChat
+//   
+//  This software may be modified and distributed under the terms of the
+//  MIT license. See the LICENSE file for details.
 
-#import <Foundation/Foundation.h>
-#import <iOSMath/IosMath.h>
 #import <IosMath/MTMathUILabel.h>
 #import <IosMath/MTMathListDisplay.h>
 #import <IosMath/MTMathList.h>
 #import <IosMath/MTMathListBuilder.h>
-
-//! Project version number for iOSMath.
-FOUNDATION_EXPORT double iOSMathVersionNumber;
-
-//! Project version string for iOSMath.
-FOUNDATION_EXPORT const unsigned char iOSMathVersionString[];
-
-// In this header, you should import all the public headers of your framework using statements like #import <iOSMath/PublicHeader.h>
-
-

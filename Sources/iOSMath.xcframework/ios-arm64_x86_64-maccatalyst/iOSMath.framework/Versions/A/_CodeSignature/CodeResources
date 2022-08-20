@@ -156,11 +156,39 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/iOSMath.h</key>
+		<key>Headers/IosMath.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5AkrsLZWGQQythQ3WC03tEkihtbi13qq5r+CZjyS4c4=
+			H0SOH5mORzj0lZqFrH+Mqsxe1Y0Pd9pr9XRImVC52oE=
+			</data>
+		</dict>
+		<key>Headers/MTMathList.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BkthcjM2NYiGrD0j9ffUZTLKOnbXN/cPwRRoIDTt4O0=
+			</data>
+		</dict>
+		<key>Headers/MTMathListBuilder.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yguA2iRXh+Oy8p8hbwcHTyUVMP9llF5qCuL8EtRAvtE=
+			</data>
+		</dict>
+		<key>Headers/MTMathListDisplay.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			r3FPOSG1OkNivevG4zczO4kAldu2al3yBE8q9oY0aRE=
+			</data>
+		</dict>
+		<key>Headers/MTMathUILabel.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fAAoRGeEIgbFFZ8TKEDCAIVW/BqWBLpXAfjZWZP2CKc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
