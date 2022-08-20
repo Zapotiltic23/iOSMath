@@ -28,34 +28,6 @@
 		<data>
 		YXq9ohCH9fiAKEFt5KD1Db1If1E=
 		</data>
-		<key>Resources/amgm.png</key>
-		<data>
-		BhLvaKugv6Xs+fkLbJcyF8R7WME=
-		</data>
-		<key>Resources/calculus.png</key>
-		<data>
-		hjYWdd6sM/zveI5Y1eCVOhpAco0=
-		</data>
-		<key>Resources/cases.png</key>
-		<data>
-		mooyk1l/Ui8XeEpUYcPbjNcQLTc=
-		</data>
-		<key>Resources/cauchyintegral.png</key>
-		<data>
-		UeFcwmQTV6q3+HHOSJiD8HRez+c=
-		</data>
-		<key>Resources/cauchyschwarz.png</key>
-		<data>
-		RNVGxjc1MXgHoNmD7pGy/c6t4o4=
-		</data>
-		<key>Resources/cross.png</key>
-		<data>
-		ogocI2z4cS1ZyeEA1s3rpmmf6QM=
-		</data>
-		<key>Resources/demorgan.png</key>
-		<data>
-		bV4HQrH1jqF/ms59QOKQD4GHwDw=
-		</data>
 		<key>Resources/en.lproj/InfoPlist.strings</key>
 		<dict>
 			<key>hash</key>
@@ -65,10 +37,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/gaussintegral.png</key>
-		<data>
-		0Of5eUUTSdO5utnD5xceqj0GiKY=
-		</data>
 		<key>Resources/latinmodern-math.otf</key>
 		<data>
 		B8P584MLhs/6wPaJJGL2KYRmE3c=
@@ -77,61 +45,9 @@
 		<data>
 		fMyIhtTdaxOymQ33DnMGjChNrkU=
 		</data>
-		<key>Resources/limit.png</key>
-		<data>
-		QG8FFYt2FtsZO3xWVKKJgW6eJxs=
-		</data>
-		<key>Resources/log.png</key>
-		<data>
-		aZc7i8geics63wBW6Hs9fS+Zfns=
-		</data>
-		<key>Resources/long.png</key>
-		<data>
-		gv4GEfY9BBtY2a7HIXigoFH8xPY=
-		</data>
-		<key>Resources/lorentz.png</key>
-		<data>
-		PZfQkwpbehVIBRttmT2x9tgfk0c=
-		</data>
 		<key>Resources/math_table_to_plist.py</key>
 		<data>
 		Vpw5CixTThxKdUYSUSsJmIuSMl0=
-		</data>
-		<key>Resources/matrixmult.png</key>
-		<data>
-		cIDimywEBbWRK1DmwT2oOPE03A4=
-		</data>
-		<key>Resources/maxwell.png</key>
-		<data>
-		alEJ4YDJB65CPUwQJhWx7vz0xMU=
-		</data>
-		<key>Resources/quadratic.png</key>
-		<data>
-		p7+GTc4RmtIYbUE4x3vdXVQFY5o=
-		</data>
-		<key>Resources/ramanujan.png</key>
-		<data>
-		6DVezGImvlxkGfdsj64MMbXDd3A=
-		</data>
-		<key>Resources/schroedinger.png</key>
-		<data>
-		sP8p/LZFm8L+prSxw4HpcUNsbl8=
-		</data>
-		<key>Resources/square.png</key>
-		<data>
-		E0fAuqQm+fYfN2mwp9Eh5ERg8K8=
-		</data>
-		<key>Resources/st.png</key>
-		<data>
-		IY+hlKtrauX6jve2Tspc4qURG4A=
-		</data>
-		<key>Resources/standard.png</key>
-		<data>
-		KgCUg9UO8qNzuU9ULWLWzAClEYU=
-		</data>
-		<key>Resources/stirling.png</key>
-		<data>
-		uNGra2B9clodN4rLr1hnMlGgzj4=
 		</data>
 		<key>Resources/texgyretermes-math.otf</key>
 		<data>
@@ -140,10 +56,6 @@
 		<key>Resources/texgyretermes-math.plist</key>
 		<data>
 		FZZP5fi7U6dOlUSJi+Hk8+4A6Dw=
-		</data>
-		<key>Resources/trig.png</key>
-		<data>
-		cB5PIhyTah9PTfdKPkTCRjUmtO4=
 		</data>
 		<key>Resources/xits-math.otf</key>
 		<data>
@@ -345,55 +257,6 @@
 			Iq/lN97k2KQUt2xj2xQIIHKePvg1uMehlDpWG6j1FLc=
 			</data>
 		</dict>
-		<key>Resources/amgm.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bzgPO2Uc1zcgK3o41r2w0isDT6YdpgadU4oOxjMrQfk=
-			</data>
-		</dict>
-		<key>Resources/calculus.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uJozBUUaWDupRCcVNUaTXlQP95/xJFIhYD1qSrR5jgE=
-			</data>
-		</dict>
-		<key>Resources/cases.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			g4HewoLt3boxb2pI4tPx4Z8Un2x88AUZtDsKupiNoL8=
-			</data>
-		</dict>
-		<key>Resources/cauchyintegral.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GH3Pr4vXNCM6wOYZI8Y93JnvPX+5xcMFLHXty1H0l2g=
-			</data>
-		</dict>
-		<key>Resources/cauchyschwarz.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UKbNEA+0JFJKlgKTI6li9DhedO3b9V8DlPSndcjGG5w=
-			</data>
-		</dict>
-		<key>Resources/cross.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Roxy5qP2OaZNHoMmRsJ53ZPvvVxFWWxaIfpFUHjTMuU=
-			</data>
-		</dict>
-		<key>Resources/demorgan.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XXgfy0wJj7BHsW54NXxzuIJd9QMkv2qoAsAVfbWiQGM=
-			</data>
-		</dict>
 		<key>Resources/en.lproj/InfoPlist.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -402,13 +265,6 @@
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>Resources/gaussintegral.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Q8iKwuNVS/I3pPNpQZVm2D8RDfgIQphcZx/CQL5YRaY=
-			</data>
 		</dict>
 		<key>Resources/latinmodern-math.otf</key>
 		<dict>
@@ -424,102 +280,11 @@
 			zsH3HDxq24hTLRUvDy37wEbC3nxp9sKG1kOpc6La/m4=
 			</data>
 		</dict>
-		<key>Resources/limit.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pw2uDd4wb2bT3uAquqIdyHyDUsi/sdy1OHgTEQlQPfE=
-			</data>
-		</dict>
-		<key>Resources/log.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NUVi9Mnz1fiIwPvfDj1pshA81ked6IO6iXaXLxJHlnY=
-			</data>
-		</dict>
-		<key>Resources/long.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HZYMe+oBZ7SlAdD76AKfA6zyZbuoqA9G3Agn4c5Rjd0=
-			</data>
-		</dict>
-		<key>Resources/lorentz.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jaOW2kWUEwwylJRlVmSLYQ9UAjPOmYzicHIpwOdteIQ=
-			</data>
-		</dict>
 		<key>Resources/math_table_to_plist.py</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			0Fb1V4DBLGWsuX2fUOAShBRkceV53o61v0KvIDGvDOg=
-			</data>
-		</dict>
-		<key>Resources/matrixmult.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ztU9E1W5YcoxfxD+e334bZkzWYwVHa7EDt6Z+CBxpfs=
-			</data>
-		</dict>
-		<key>Resources/maxwell.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wcsSaGRSDp5un+p37kguCg8lFCvRKs4IlyZLVFh3eME=
-			</data>
-		</dict>
-		<key>Resources/quadratic.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dbPWhNb2GOuGpKiD45GHPQdU+HxqyhGQCrx6/ODzCVY=
-			</data>
-		</dict>
-		<key>Resources/ramanujan.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			B3Vjl4HNcnt3DPoFLiQf98ws9kYlkInZi8YEudIt1+A=
-			</data>
-		</dict>
-		<key>Resources/schroedinger.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QjRux2pQBzRn2hF+RmExGWYafiRcUz1LSYdE8cDGr6U=
-			</data>
-		</dict>
-		<key>Resources/square.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			f2pbViGtcKOBX6VEsBFn1FYQvoai9lFFAKLFC3TEAPY=
-			</data>
-		</dict>
-		<key>Resources/st.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			56smuJ2J36iFZtoFsjUFqCRE+r0i1pJnIakj6U18oE8=
-			</data>
-		</dict>
-		<key>Resources/standard.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			n4NDREhi5u2WOx19rTYVnVpgW1iXIvQLAAEK9Rd1dPA=
-			</data>
-		</dict>
-		<key>Resources/stirling.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CUg+n/NMnI9PxtXiliijZFEFI5Bmo0Hx5wSfLnqPqFo=
 			</data>
 		</dict>
 		<key>Resources/texgyretermes-math.otf</key>
@@ -534,13 +299,6 @@
 			<key>hash2</key>
 			<data>
 			KWX/g6P6vIuOVa1oTqXJKl6+/vDOjF5jOJrRlfYxuTg=
-			</data>
-		</dict>
-		<key>Resources/trig.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Qpg2wAr6CsaCHxBpbglAYVCWlkx5ZrWeG9k/WnIQD6I=
 			</data>
 		</dict>
 		<key>Resources/xits-math.otf</key>
