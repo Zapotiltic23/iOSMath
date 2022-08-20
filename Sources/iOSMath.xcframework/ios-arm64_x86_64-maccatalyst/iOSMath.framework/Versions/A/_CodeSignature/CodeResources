@@ -163,6 +163,55 @@
 			H0SOH5mORzj0lZqFrH+Mqsxe1Y0Pd9pr9XRImVC52oE=
 			</data>
 		</dict>
+		<key>Headers/MTConfig.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c4E8j6kvf4f/+88EuNbFKwt9PSy2EuhcPIM/2fgVjPg=
+			</data>
+		</dict>
+		<key>Headers/MTFont+Internal.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kmNVgcm1pxHCI+kQz53urkvVhUN7jGcs6/nHROVnU4c=
+			</data>
+		</dict>
+		<key>Headers/MTFont.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9K8pdnop0Ro2SrY9H8YSAdpNMU52Z9okkvPHoxs9cHo=
+			</data>
+		</dict>
+		<key>Headers/MTFontManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+AIVMgHlHAkx+bUtMwfTSpfsux5as8ntgbW95ek7fkQ=
+			</data>
+		</dict>
+		<key>Headers/MTFontMathTable.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E39Qp6KxVCgotVSwsD839gyVoCdPtvXYdZTXi+PAOT8=
+			</data>
+		</dict>
+		<key>Headers/MTLabel.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			o7WkW4ENQJGZspMTCCGSYyWiIqQxmUjnf5tR7jDSImE=
+			</data>
+		</dict>
+		<key>Headers/MTMathAtomFactory.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GpQeiWrly9VetQv763vnaZ9N/84RgZsnpVQsQESE8GQ=
+			</data>
+		</dict>
 		<key>Headers/MTMathList.h</key>
 		<dict>
 			<key>hash2</key>
@@ -184,11 +233,67 @@
 			r3FPOSG1OkNivevG4zczO4kAldu2al3yBE8q9oY0aRE=
 			</data>
 		</dict>
+		<key>Headers/MTMathListDisplayInternal.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			akTDXwHDERpVdnzoAh0PkMoUC0hcld77kClNUya21a4=
+			</data>
+		</dict>
+		<key>Headers/MTMathListIndex.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			32Xu3na67m2VAMaM/Mfahuak125NQ8RUkmVkKEHzqeQ=
+			</data>
+		</dict>
 		<key>Headers/MTMathUILabel.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			fAAoRGeEIgbFFZ8TKEDCAIVW/BqWBLpXAfjZWZP2CKc=
+			</data>
+		</dict>
+		<key>Headers/MTTypesetter.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V9bSXoufJ55hpicxrumATUuEgLopNZw1B9qhVuQWgqs=
+			</data>
+		</dict>
+		<key>Headers/MTUnicode.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HX60CdonAPLVbXlBZds2lMqpLckT9kwY3ngX5S9Q5y4=
+			</data>
+		</dict>
+		<key>Headers/NSBezierPath+addLineToPoint.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ve+k+OUrZcRzxL+i9/IpvbHh1UqBx3bSL+isj/Z7q+Y=
+			</data>
+		</dict>
+		<key>Headers/NSColor+HexString.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			20qEAv3VU2WYhY82fF92ZXdoOuquDQgj7lK5fXwfHSk=
+			</data>
+		</dict>
+		<key>Headers/NSView+backgroundColor.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+wA2HrnlDC+igRpALpPhrBs+/KRQU+WDNjEHtuW6XhM=
+			</data>
+		</dict>
+		<key>Headers/UIColor+HexString.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z7odP++ZuWtqsGx7j0BRFEgVVFEdac+ESQ/I57ovjmI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
