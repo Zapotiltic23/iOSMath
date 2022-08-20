@@ -4,66 +4,57 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/GUST-FONT-LICENSE.txt</key>
-		<data>
-		fpsC0/SAru6+MOmoimcb7/L/3ns=
-		</data>
 		<key>Resources/Info.plist</key>
 		<data>
 		oMcNZQ2xBmHjSy4V63r2oTEXBVA=
 		</data>
-		<key>Resources/MathFontBundle-Info.plist</key>
+		<key>Resources/mathFonts.bundle/Info.plist</key>
 		<data>
-		zUMAl0+JLKQn9Gkm0JS1XG1BXz0=
+		36iQqchS8H8MQTbc1+j3bOUZsAY=
 		</data>
-		<key>Resources/OFL.txt</key>
+		<key>Resources/mathFonts.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		ZProM/E6XI9KupLhSrlkzPR4kyg=
+		I8DpI5LmT/APTbMOWoR3ZW2E2t4=
 		</data>
-		<key>Resources/README-Latin-Modern-Math.txt</key>
+		<key>Resources/mathFonts.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
-		RLZbiniExP4y7ffK+B/4bTqGYDs=
+		OnX22wWFKRSOFN1+obRynMCeyXM=
 		</data>
-		<key>Resources/README-TeX-Gyre-Termes-Math.txt</key>
+		<key>Resources/mathFonts.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		YXq9ohCH9fiAKEFt5KD1Db1If1E=
+		+QnkmpdbUPHfOWxu8M5w8U/cO8U=
 		</data>
-		<key>Resources/en.lproj/InfoPlist.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MiLKDDnrUKr4EmuvhS5VQwxHGK8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/latinmodern-math.otf</key>
+		<key>Resources/mathFonts.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		ucGUWoB3iFpzDD4UnprZYZZHUG0=
+		</data>
+		<key>Resources/mathFonts.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>Resources/mathFonts.bundle/latinmodern-math.otf</key>
 		<data>
 		B8P584MLhs/6wPaJJGL2KYRmE3c=
 		</data>
-		<key>Resources/latinmodern-math.plist</key>
+		<key>Resources/mathFonts.bundle/latinmodern-math.plist</key>
 		<data>
-		fMyIhtTdaxOymQ33DnMGjChNrkU=
+		RA/yB2o/9bn4DkkbEStjRdONXyE=
 		</data>
-		<key>Resources/math_table_to_plist.py</key>
-		<data>
-		Vpw5CixTThxKdUYSUSsJmIuSMl0=
-		</data>
-		<key>Resources/texgyretermes-math.otf</key>
+		<key>Resources/mathFonts.bundle/texgyretermes-math.otf</key>
 		<data>
 		vD6KhdLJA9Tb1EOOVbo5Xud2mdQ=
 		</data>
-		<key>Resources/texgyretermes-math.plist</key>
+		<key>Resources/mathFonts.bundle/texgyretermes-math.plist</key>
 		<data>
-		FZZP5fi7U6dOlUSJi+Hk8+4A6Dw=
+		Zi0xnLVUgsuVQtSEfEa8TMvx1H4=
 		</data>
-		<key>Resources/xits-math.otf</key>
+		<key>Resources/mathFonts.bundle/xits-math.otf</key>
 		<data>
 		Y8GVSe2l1XOTfmP4apWF/prTMWw=
 		</data>
-		<key>Resources/xits-math.plist</key>
+		<key>Resources/mathFonts.bundle/xits-math.plist</key>
 		<data>
-		m0SKA4fzPi2NgNl67z773itygpU=
+		g/9vRIp5yfZe7QDmISRwTL+6CG4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -215,13 +206,6 @@
 			61eg+BZEeSdGhd3SdIysLFGsKpECCI6elzq8hSa6hyY=
 			</data>
 		</dict>
-		<key>Resources/GUST-FONT-LICENSE.txt</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			K9aa/8PaAHFRFvcT9X6rlwfpba81Yq0CFZh7FbnBb3M=
-			</data>
-		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -229,90 +213,88 @@
 			HT94ZOi2F94FvwBTQciTHSbn2a45CVc3eXMmkV/SUX8=
 			</data>
 		</dict>
-		<key>Resources/MathFontBundle-Info.plist</key>
+		<key>Resources/mathFonts.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LT37G76WPUX/xeSG+oip+ucH+8d6Dri2Rf6b7HRfDDA=
+			TDYVwWy5zzRqr0BTCQRSskkXBxT4NRtVAaemBSEe3WU=
 			</data>
 		</dict>
-		<key>Resources/OFL.txt</key>
+		<key>Resources/mathFonts.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qWvtiPhn9qW754ztTKUqPObgAkdTY9hu3ZCXsvggbY0=
+			+D7bExErPX7Kz9nCtrVZKq9KzttRTJwFEcweXnHfz14=
 			</data>
 		</dict>
-		<key>Resources/README-Latin-Modern-Math.txt</key>
+		<key>Resources/mathFonts.bundle/_CodeSignature/CodeRequirements</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5v3V+0S2VhRvqYjRkfWJAcCaNH0/T7qjtFskpq1+wws=
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
 			</data>
 		</dict>
-		<key>Resources/README-TeX-Gyre-Termes-Math.txt</key>
+		<key>Resources/mathFonts.bundle/_CodeSignature/CodeRequirements-1</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Iq/lN97k2KQUt2xj2xQIIHKePvg1uMehlDpWG6j1FLc=
+			dor/mQ1i8qUh1oyC4pG5G5xbjN4HRsgP/i/vZL7/h70=
 			</data>
 		</dict>
-		<key>Resources/en.lproj/InfoPlist.strings</key>
+		<key>Resources/mathFonts.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oc8u4Ht7Mz58F50L9NeYpbcq9qTlhPUeZCcDu/pPyCg=
+			kwSDSqa/SyeG2vFSYB0Mgpg2DTR2ZG483/+f0ah4qtA=
 			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
-		<key>Resources/latinmodern-math.otf</key>
+		<key>Resources/mathFonts.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>Resources/mathFonts.bundle/latinmodern-math.otf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			YHVWK3cfi4LwwXnjYziWhPLdCd4wA4Jp4mKOUEvXvg8=
 			</data>
 		</dict>
-		<key>Resources/latinmodern-math.plist</key>
+		<key>Resources/mathFonts.bundle/latinmodern-math.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zsH3HDxq24hTLRUvDy37wEbC3nxp9sKG1kOpc6La/m4=
+			IB5qSDeDQV8zUyjy0Cs1b+Vc1HjrDNBSiYI2WJyMuUY=
 			</data>
 		</dict>
-		<key>Resources/math_table_to_plist.py</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0Fb1V4DBLGWsuX2fUOAShBRkceV53o61v0KvIDGvDOg=
-			</data>
-		</dict>
-		<key>Resources/texgyretermes-math.otf</key>
+		<key>Resources/mathFonts.bundle/texgyretermes-math.otf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			5c5CtP6Ca36kwIdDWd7PCylEOTVcURpHlBB6mSTizVo=
 			</data>
 		</dict>
-		<key>Resources/texgyretermes-math.plist</key>
+		<key>Resources/mathFonts.bundle/texgyretermes-math.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KWX/g6P6vIuOVa1oTqXJKl6+/vDOjF5jOJrRlfYxuTg=
+			V93qx8UeE0Kusw+3L2vrTS8+59Ub+x4Hq5FQwG9+w8g=
 			</data>
 		</dict>
-		<key>Resources/xits-math.otf</key>
+		<key>Resources/mathFonts.bundle/xits-math.otf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			12Zmyy3CIrSoEduWxBzBhTmIuRAI7EShlBJrTgEKXGw=
 			</data>
 		</dict>
-		<key>Resources/xits-math.plist</key>
+		<key>Resources/mathFonts.bundle/xits-math.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DYW83Q+MasUNiek3Yy3Dndn5XK4QbBR/5Lu7UpsS/sA=
+			bDBEvhAO4Dh35kkARUC270dlWnO+dKIKz2n2YQCpg60=
 			</data>
 		</dict>
 	</dict>

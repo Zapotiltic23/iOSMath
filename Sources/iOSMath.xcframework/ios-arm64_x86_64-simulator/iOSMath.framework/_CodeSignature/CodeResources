@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>GUST-FONT-LICENSE.txt</key>
-		<data>
-		fpsC0/SAru6+MOmoimcb7/L/3ns=
-		</data>
 		<key>Headers/IosMath.h</key>
 		<data>
 		e5x1UwPP0hAnQEYXQ5LSh0s9W7o=
@@ -92,73 +88,61 @@
 		<data>
 		TQHnjAwLwtkSmIQgUx9QtdvZXeM=
 		</data>
-		<key>MathFontBundle-Info.plist</key>
-		<data>
-		sxM+ztRx3LF+Mte/7A/6aaNl04I=
-		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		VF21cHwWW1ZpaL2PolEF5TWcYiw=
 		</data>
-		<key>OFL.txt</key>
+		<key>mathFonts.bundle/Info.plist</key>
 		<data>
-		ZProM/E6XI9KupLhSrlkzPR4kyg=
+		36iQqchS8H8MQTbc1+j3bOUZsAY=
 		</data>
-		<key>README-Latin-Modern-Math.txt</key>
+		<key>mathFonts.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		RLZbiniExP4y7ffK+B/4bTqGYDs=
+		I8DpI5LmT/APTbMOWoR3ZW2E2t4=
 		</data>
-		<key>README-TeX-Gyre-Termes-Math.txt</key>
+		<key>mathFonts.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
-		YXq9ohCH9fiAKEFt5KD1Db1If1E=
+		OnX22wWFKRSOFN1+obRynMCeyXM=
 		</data>
-		<key>en.lproj/InfoPlist.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zmV6UqBSo6r1NOz798vd5O4zTBA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>latinmodern-math.otf</key>
+		<key>mathFonts.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		+QnkmpdbUPHfOWxu8M5w8U/cO8U=
+		</data>
+		<key>mathFonts.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		ucGUWoB3iFpzDD4UnprZYZZHUG0=
+		</data>
+		<key>mathFonts.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>mathFonts.bundle/latinmodern-math.otf</key>
 		<data>
 		B8P584MLhs/6wPaJJGL2KYRmE3c=
 		</data>
-		<key>latinmodern-math.plist</key>
+		<key>mathFonts.bundle/latinmodern-math.plist</key>
 		<data>
 		RA/yB2o/9bn4DkkbEStjRdONXyE=
 		</data>
-		<key>math_table_to_plist.py</key>
-		<data>
-		Vpw5CixTThxKdUYSUSsJmIuSMl0=
-		</data>
-		<key>texgyretermes-math.otf</key>
+		<key>mathFonts.bundle/texgyretermes-math.otf</key>
 		<data>
 		vD6KhdLJA9Tb1EOOVbo5Xud2mdQ=
 		</data>
-		<key>texgyretermes-math.plist</key>
+		<key>mathFonts.bundle/texgyretermes-math.plist</key>
 		<data>
 		Zi0xnLVUgsuVQtSEfEa8TMvx1H4=
 		</data>
-		<key>xits-math.otf</key>
+		<key>mathFonts.bundle/xits-math.otf</key>
 		<data>
 		Y8GVSe2l1XOTfmP4apWF/prTMWw=
 		</data>
-		<key>xits-math.plist</key>
+		<key>mathFonts.bundle/xits-math.plist</key>
 		<data>
 		g/9vRIp5yfZe7QDmISRwTL+6CG4=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>GUST-FONT-LICENSE.txt</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			K9aa/8PaAHFRFvcT9X6rlwfpba81Yq0CFZh7FbnBb3M=
-			</data>
-		</dict>
 		<key>Headers/IosMath.h</key>
 		<dict>
 			<key>hash2</key>
@@ -299,13 +283,6 @@
 			Z7odP++ZuWtqsGx7j0BRFEgVVFEdac+ESQ/I57ovjmI=
 			</data>
 		</dict>
-		<key>MathFontBundle-Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jnQzU1IPCQaJia8axP4Z0dXU/9AjXTlXV1kiUaKmYwQ=
-			</data>
-		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
@@ -313,79 +290,84 @@
 			61eg+BZEeSdGhd3SdIysLFGsKpECCI6elzq8hSa6hyY=
 			</data>
 		</dict>
-		<key>OFL.txt</key>
+		<key>mathFonts.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qWvtiPhn9qW754ztTKUqPObgAkdTY9hu3ZCXsvggbY0=
+			TDYVwWy5zzRqr0BTCQRSskkXBxT4NRtVAaemBSEe3WU=
 			</data>
 		</dict>
-		<key>README-Latin-Modern-Math.txt</key>
+		<key>mathFonts.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5v3V+0S2VhRvqYjRkfWJAcCaNH0/T7qjtFskpq1+wws=
+			+D7bExErPX7Kz9nCtrVZKq9KzttRTJwFEcweXnHfz14=
 			</data>
 		</dict>
-		<key>README-TeX-Gyre-Termes-Math.txt</key>
+		<key>mathFonts.bundle/_CodeSignature/CodeRequirements</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Iq/lN97k2KQUt2xj2xQIIHKePvg1uMehlDpWG6j1FLc=
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
 			</data>
 		</dict>
-		<key>en.lproj/InfoPlist.strings</key>
+		<key>mathFonts.bundle/_CodeSignature/CodeRequirements-1</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kmHsztpgjvF0JW5f3HdMHm49z1M0CcG8OT1JDQHHE/E=
+			dor/mQ1i8qUh1oyC4pG5G5xbjN4HRsgP/i/vZL7/h70=
 			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
-		<key>latinmodern-math.otf</key>
+		<key>mathFonts.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kwSDSqa/SyeG2vFSYB0Mgpg2DTR2ZG483/+f0ah4qtA=
+			</data>
+		</dict>
+		<key>mathFonts.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>mathFonts.bundle/latinmodern-math.otf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			YHVWK3cfi4LwwXnjYziWhPLdCd4wA4Jp4mKOUEvXvg8=
 			</data>
 		</dict>
-		<key>latinmodern-math.plist</key>
+		<key>mathFonts.bundle/latinmodern-math.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			IB5qSDeDQV8zUyjy0Cs1b+Vc1HjrDNBSiYI2WJyMuUY=
 			</data>
 		</dict>
-		<key>math_table_to_plist.py</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0Fb1V4DBLGWsuX2fUOAShBRkceV53o61v0KvIDGvDOg=
-			</data>
-		</dict>
-		<key>texgyretermes-math.otf</key>
+		<key>mathFonts.bundle/texgyretermes-math.otf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			5c5CtP6Ca36kwIdDWd7PCylEOTVcURpHlBB6mSTizVo=
 			</data>
 		</dict>
-		<key>texgyretermes-math.plist</key>
+		<key>mathFonts.bundle/texgyretermes-math.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			V93qx8UeE0Kusw+3L2vrTS8+59Ub+x4Hq5FQwG9+w8g=
 			</data>
 		</dict>
-		<key>xits-math.otf</key>
+		<key>mathFonts.bundle/xits-math.otf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			12Zmyy3CIrSoEduWxBzBhTmIuRAI7EShlBJrTgEKXGw=
 			</data>
 		</dict>
-		<key>xits-math.plist</key>
+		<key>mathFonts.bundle/xits-math.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
