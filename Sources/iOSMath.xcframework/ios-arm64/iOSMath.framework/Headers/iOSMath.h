@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <iOSMath/MTMathUILabel.h>
+#import <iOSMath/IosMath.h>
 
 //! Project version number for iOSMath.
 FOUNDATION_EXPORT double iOSMathVersionNumber;
